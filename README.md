@@ -1,6 +1,6 @@
-# RedUtilities
+# RLBot-Rad
 
-A set of utitilies for making rocket league bots in C#
+A Rocket League bot created by Rad in C#, based on RedUtils
 
 ## Usage Instructions
 
